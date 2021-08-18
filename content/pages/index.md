@@ -103,7 +103,7 @@ sections:
         style: primary
 seo:
   title: Alireza Gharib Docs
-  description: The preview of the Libris theme
+  description: AlirezaGharib Github Documentation
   extra:
     - name: 'og:type'
       value: website
